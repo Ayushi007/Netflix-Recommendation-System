@@ -1,0 +1,4 @@
+Dataset files are attached:
+1. train.csv - contains the training data (MovieID, CustomerID, Date, Rating)
+2. title_original.csv 
+3. movie_db_extra.csv - Extra movie data collected from IMDB - contains movie descriptions
